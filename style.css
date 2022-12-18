@@ -112,3 +112,11 @@ body {
   text-decoration: none;
   font-weight: 700;
 }
+
+@media (max-width:768px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}
