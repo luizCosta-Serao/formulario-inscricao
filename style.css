@@ -103,6 +103,10 @@ body {
   cursor: pointer;
 }
 
+.inscription form button:hover {
+  opacity: .5;
+}
+
 /*STYLE DOS TERMOS DO FORMULÁRIO*/
 .inscription form .terms {
   font-size: .65rem;
