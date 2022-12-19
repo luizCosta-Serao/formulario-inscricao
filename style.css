@@ -74,6 +74,8 @@ body {
   outline: none;
   border: 1px solid hsl(246, 12%, 86%) ;
   font-weight: 500;
+  position: relative;
+  color: hsl(249, 10%, 26%) ;
 }
 
 /*STYLE DOS INPUTS DO FORMULÁRIO EM ESTADO DE FOCO*/
